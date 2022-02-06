@@ -8,3 +8,4 @@
 
 - [Platon](platon)
 	- [Apologia](platon/apologia)
+	- [Politeia (1/2)](platon/politeia)
