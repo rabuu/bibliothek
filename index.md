@@ -1,7 +1,5 @@
 # bibliothek
 
-## index
-
 - [Homeros](homeros)
 	- [Ilias](homeros/ilias)
 	- [Odysseia](homeros/odysseia)
@@ -11,4 +9,4 @@
 	- [Politeia (1&2)](platon/politeia)
 
 - [Euripides](euripides)
-    - [Herakles](euripides/herakles)
+	- [Herakles](euripides/herakles)
